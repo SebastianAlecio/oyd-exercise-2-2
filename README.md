@@ -34,6 +34,6 @@ Las credenciales AWS (`AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_REGION`
 
 ## Evidence
 
-- Pull request: <https://github.com/SebastianAlecio/oyd-exercise-2-2/pull/N>
+- Pull request: <https://github.com/SebastianAlecio/oyd-exercise-2-2/pull/1>
 
 ![PR comment](evidence/pr-comment.png)
